@@ -51,5 +51,6 @@ npm run test:e2e
 ```
 
 ### Set .env variables
-
+```
 copy .env.example file content to .env file and customize your variables
+```
